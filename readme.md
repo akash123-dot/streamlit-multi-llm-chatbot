@@ -51,6 +51,4 @@ streamlit run app.py
 - `.env` and `.venv` are excluded from the repository for security.
 - LangSmith is optional but supported when API keys are provided.
 
-## 📜 License
-This project is for educational and personal use. Feel free to modify and enhance it.
 
